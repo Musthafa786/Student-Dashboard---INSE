@@ -1,0 +1,22 @@
+'LogInButton
+ +        '
+ +        Me.LogInButton.Location = New System.Drawing.Point(423, 439)
+ +        Me.LogInButton.Name = "LogInButton"
+ +        Me.LogInButton.Size = New System.Drawing.Size(75, 23)
+ +        Me.LogInButton.TabIndex = 5
+ +        Me.LogInButton.Text = "Log in"
+ +        Me.LogInButton.UseVisualStyleBackColor = True
+	  Me.LoginInButton= "btnDisableEnter" runat= "Server" Text= OnClientClick= "return false;"
+          form id="LogIn.vb" runtat="server" LoginInButton="btnDisableEnter"
+		
+
+ +        '
+ +        'RegisterButton
+ +        '
+ +        Me.RegisterButton.Location = New System.Drawing.Point(518, 439)
+ +        Me.RegisterButton.Name = "RegisterButton"
+ +        Me.RegisterButton.Size = New System.Drawing.Size(75, 23)
+ +        Me.RegisterButton.TabIndex = 6
+ +        Me.RegisterButton.Text = "Register"
+ +        Me.RegisterButton.UseVisualStyleBackColor = True
+ +        '
